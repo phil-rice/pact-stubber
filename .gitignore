@@ -1,0 +1,10 @@
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+project/
+target/
+.idea
+/credentials.sbt
+/sbt
+/sbt-launch.jar
+/repositories-truststore.jks
